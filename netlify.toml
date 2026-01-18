@@ -1,11 +1,11 @@
 [[redirects]]
 from = "/index.html"
-to = "/2.-area/개발/네트워크.html"
+to = "/tech_note.html"
 status = 200
 force=true
 
 [[redirects]]
 from = "/"
-to = "/2.-area/개발/네트워크.html"
+to = "/tech_note.html"
 status = 200
 force=true
