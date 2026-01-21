@@ -1,11 +1,11 @@
 [[redirects]]
 from = "/index.html"
-to = "/README.html"
+to = "/Welcome.html"
 status = 200
 force=true
 
 [[redirects]]
 from = "/"
-to = "/README.html"
+to = "/Welcome.html"
 status = 200
 force=true
